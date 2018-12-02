@@ -21,8 +21,7 @@ public class MainActivity extends AppCompatActivity
     private String[] usernameList = {"luca","capelli","bropac","capelli.14014"};
     private String[] passwordList = {"password1","password2","password3","password4"};
 
-    //progetto modificato weeeeeeeeeeeeee
-
+    //ho modificato il progetto in questo punto
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
