@@ -1,0 +1,21 @@
+[33mcommit 347884d721822bd3da49ca41627c78fac910e811[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Bropac <capelli.14014@itispaleocapa.it>
+Date:   Sun Dec 2 09:45:46 2018 +0100
+
+    modifica_3
+
+[1mdiff --git a/app/src/main/java/com/example/capelli14014/login/MainActivity.java b/app/src/main/java/com/example/capelli14014/login/MainActivity.java[m
+[1mindex 98c84d3..9415702 100644[m
+[1m--- a/app/src/main/java/com/example/capelli14014/login/MainActivity.java[m
+[1m+++ b/app/src/main/java/com/example/capelli14014/login/MainActivity.java[m
+[36m@@ -21,8 +21,8 @@[m [mpublic class MainActivity extends AppCompatActivity[m
+     private String[] usernameList = {"luca","capelli","bropac","capelli.14014"};[m
+     private String[] passwordList = {"password1","password2","password3","password4"};[m
+ [m
+[31m-    //modifica 2[m
+[31m-    [m
+[32m+[m[32m    //modifica 3[m
+[32m+[m
+     @Override[m
+     protected void onCreate(Bundle savedInstanceState)[m
+     {[m
